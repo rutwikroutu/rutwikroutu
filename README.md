@@ -2,7 +2,7 @@
 
 **`Rudy (Developer/Filmmaker/Creator)`**
 
-I'm an independent full-stack developer and content creator, crafting my vision of the digital realm step by step. My coding projects start with meticulous planning and design, culminating in practical solutions to real-world challenges through code. Likewise, my video content undergoes a similar journey, beginning with creative ideation and careful planning, and concluding with artistic flourishes in the final product. I share this content with my audience on my YouTube channel, "[DecaCode73][youtube]" which boasts over 2,000 subscribers.
+I'm an indie full-stack developer and content creator, crafting my vision of the digital realm step by step. My coding projects start with meticulous planning and design, culminating in practical solutions to real-world challenges through code. Likewise, my video content undergoes a similar journey, beginning with creative ideation and careful planning, and concluding with artistic flourishes in the final product. I share this content with my audience on my YouTube channel, "[DecaCode73][youtube]" which boasts over 2,000 subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/decacode73?sub_confirmation=1">
